@@ -88,6 +88,6 @@ Potential improvements for future versions:
 
 ## UML Diagram of the Project
 
-![UML Diagram](uml_diagram.png)
+![UML Diagram](uml_Diagram.png)
 
 
