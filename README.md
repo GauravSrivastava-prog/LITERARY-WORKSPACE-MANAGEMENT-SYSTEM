@@ -86,3 +86,8 @@ Potential improvements for future versions:
 - Enhanced search functionality
 - Improved user interface
 
+## UML Diagram of the Project
+
+![UML Diagram](uml_diagram.png)
+
+
