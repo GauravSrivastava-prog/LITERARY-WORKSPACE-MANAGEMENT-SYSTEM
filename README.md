@@ -86,6 +86,3 @@ Potential improvements for future versions:
 - Enhanced search functionality
 - Improved user interface
 
-## License
-
-This project is released under the MIT License. See the LICENSE file for details.
