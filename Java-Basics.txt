@@ -1,0 +1,2 @@
+Java is a programming language develoed by James Gosling.
+It uses the concepts of Object Oriented Programming, i.e., Abstraction,Polymorphism,Inheritance and Encapsulation.
